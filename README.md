@@ -7,10 +7,9 @@ Implementing Elgamal Encryption
 
 
 
-Ali Soleimani (95170519)
+Sina Radpour
 
-Sina Radpour (97071002)
-
+Ali Soleimani
 
 
 
